@@ -1,0 +1,35 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "Modular Bars | GUI Tools",
+      "message": {
+        "embeds": [
+          {
+            "title": "Modular Bars | GUI Tools | Unity Asset Store",
+            "description": "**Synty Studios Presents -**\n\nA low poly asset pack of characters, weapons, prop and FX assets to create a fantasy based polygonal style game.\nIncludes a new big rig for massive monsters\n",
+            "color": 65307,
+            "fields": [
+              {
+                "name": "Check out the link below to find more information:",
+                "value": "https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/polygon-fantasy-rivals-118399"
+              }
+            ],
+            "author": {
+              "name": "Massey Game Jam Assets",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "footer": {
+              "text": "MasseyGameJam.Com",
+              "icon_url": "https://cdn.discordapp.com/attachments/743635440447520878/767558419321192508/a_5abff6ac9d7c26f562030a50c1f82a3f.gif"
+            },
+            "timestamp": "2020-10-19T01:24:00.000Z",
+            "image": {
+              "url": "https://assetstorev1-prd-cdn.unity3d.com/key-image/84a26692-b79b-4a7b-9299-1306dff8581a.png"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
